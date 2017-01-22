@@ -15,3 +15,4 @@
 
 ## Blogs 
 * [that thing in swift](https://thatthinginswift.com/)
+* [The Main Thread Blog](http://themainthread.com/)
