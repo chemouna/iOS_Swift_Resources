@@ -6,6 +6,7 @@
 * [dispatch_async plus a nice custom operator](https://thatthinginswift.com/background-threads/)
 * [Lazy Initialization with Swift](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
 * [Initializing View Controllers in Swift](http://themainthread.com/blog/2014/08/initializing-view-controllers-in-swift.html)
+* [Structs and mutation in Swift](http://chris.eidhof.nl/post/structs-and-mutation-in-swift/)
 
 ## UI 
 * [SnapKit](http://snapkit.io/)
